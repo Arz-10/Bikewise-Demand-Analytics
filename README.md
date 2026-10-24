@@ -1,4 +1,4 @@
-# Applied Data Science: Bike Sharing Demand Analytics
+# Applied Data Science: BikeWise Demand Analytics
 
 A full-stack web application designed for the **Applied Data Science** college subject. The application analyzes the fixed Kaggle **Bike Sharing Demand** dataset and demonstrates key concepts from an Applied Data Science syllabus (Data exploration, descriptive statistics, inferential statistics, regression modeling, anomaly detection, and time-series forecasting).
 
